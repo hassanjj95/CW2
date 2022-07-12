@@ -1,0 +1,8 @@
+{
+    "name": "cw2",
+    "author": "Hassan Jalloh",
+    "version": "1.0",
+    "dependencies": {
+        "mustache": "^4.2.0"
+    }
+}
